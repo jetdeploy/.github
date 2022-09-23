@@ -1,6 +1,6 @@
 ## JetDeploy Official Github ✈️
 
-🙋‍♀️ Jetdeploy is a *very* cool way to deploy your own webapp with easy-peasy steps!
+🙋‍♀️ JetDeploy is a *very* cool way to deploy your own webapp with easy-peasy steps!
 
 👩‍💻 Useful resources - join us on https://jetdeploy.com
 
